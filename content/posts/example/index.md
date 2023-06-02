@@ -12,9 +12,11 @@ footnotes = "Bild 1: <https://www.psychologie.ch/member/regina-hess>\n\nBild 2: 
 Eine Reportage von Ilona Hapeyenka und Lia Graber.
 {{</lead>}}
 
-## Definition Gen Z
-
 {{<box>}}
+
+
+### Definition Gen Z
+
 Als Generation Z oder Gen Z bezeichnet man alle Personen, die zwischen 1995 und 2010 geboren wurden. Andere Quellen ziehen wiederum die Jahre 1996 oder 2000 als den Start der Generation Z heran – das genaue Start- und Endjahr ist demnach nicht klar definiert. 
 Gen Z ist die erste Generation, die seit der Kindheit mit digitalen Medien konfrontiert wird.
 {{</box>}}
