@@ -1,7 +1,7 @@
 +++
 title = "Generation Z- wie sie tickt und warum?"
 date = "2023-06-02"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "gen-z.jpg"
