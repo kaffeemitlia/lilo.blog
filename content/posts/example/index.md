@@ -60,4 +60,4 @@ Zum Schluss von unserem Gespräch fragten wir ihn, wie er die Gen Z im Allgemein
 
 ## Zu guter Letzt
 
-Gen Z unterscheidet sich deutlich von anderen Generationen. Durch unsere Arbeit am Projekt haben wir das Denken der Gen Z hinterfragt und somit auch unser Denken. Wir sind sehr dankbar, dass wir über dieses spannende Thema eine Reportage schreiben konnten. Durch das interessante Gespräch mit Regina Hess und Eric Volken konnten wir viele neue und lehrreiche Fakten über die Gen Z erfahren.  Damit erhoffen wir uns, dass unsere Leser als auch andere Generationen uns dadurch besser verstehen können.
+Gen Z unterscheidet sich deutlich von anderen Generationen. Durch unsere Arbeit an diesem Projekt haben wir das Denken der Gen Z hinterfragt und somit auch unser Denken. Wir sind sehr dankbar, dass wir über dieses spannende Thema eine Reportage schreiben konnten. Durch das interessante Gespräch mit Regina Hess und Eric Volken konnten wir viele neue und lehrreiche Fakten über die Gen Z erfahren.  Damit erhoffen wir uns, dass unsere Leser, als auch andere Generationen uns dadurch besser verstehen können.
